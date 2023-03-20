@@ -8,6 +8,9 @@
   color: blueviolet;
   margin: 0;
 }
+.nav .logo-name a {
+  text-decoration: none;
+}
 
 .nav .nav-search {
   flex: 1;
@@ -42,6 +45,7 @@
   list-style: none;
   gap: 20px;
   font-size: 20px;
+  cursor: pointer;
 }
 .nav .nav-items a {
   text-decoration: none;
