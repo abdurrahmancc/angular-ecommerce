@@ -1,0 +1,52 @@
+{
+  "seller": [
+    {
+      "name": "abdur rahman",
+      "password": "32f234r",
+      "email": "fdaf@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "abdur rahman",
+      "password": "32f234r",
+      "email": "fdaf@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "abdur rahman",
+      "password": "32f234r",
+      "email": "fdaf@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "abdur",
+      "password": "32ffsd234r",
+      "email": "abdur@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "rahman",
+      "password": "32ffsd234r",
+      "email": "rahman@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "COOKIES_SECRET",
+      "password": "gdgfsg",
+      "email": "sdf",
+      "id": 6
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "password": "tet",
+      "email": "yrty",
+      "id": 7
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "password": "fsfaf",
+      "email": "afaf",
+      "id": 8
+    }
+  ]
+}
