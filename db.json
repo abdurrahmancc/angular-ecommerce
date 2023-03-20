@@ -114,5 +114,43 @@
       "email": "admin@gamil.com",
       "id": 19
     }
+  ],
+  "products": [
+    {
+      "name": "iphone",
+      "price": "434",
+      "category": "phone",
+      "color": "green",
+      "description": "this is an iphone new",
+      "image": "https://www.pngmart.com/files/13/iPhone-12-PNG-Pic.png",
+      "id": 1
+    },
+    {
+      "name": "",
+      "price": "",
+      "category": "",
+      "color": "",
+      "description": "",
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "price": "123",
+      "category": "phone",
+      "color": "dfhdf",
+      "description": "sfsdfd",
+      "image": "https://i.ibb.co/xggwFWn/download-4.jpg",
+      "id": 3
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "price": "123",
+      "category": "phone",
+      "color": "dfhdf",
+      "description": "fsdfds",
+      "image": "https://i.ibb.co/xggwFWn/download-4.jpg",
+      "id": 4
+    }
   ]
 }
