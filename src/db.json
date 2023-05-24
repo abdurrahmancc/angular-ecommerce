@@ -1,0 +1,78 @@
+{
+  "seller": [
+    {
+      "name": "iphone",
+      "email": "abdur@gmail.com",
+      "password": "fasf@ff",
+      "id": 1
+    },
+    {
+      "name": "abdur",
+      "email": "abdur@gmail.com",
+      "password": "fasf@ff",
+      "id": 2
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "password": "fafas",
+      "email": "admin@gamil.com",
+      "id": 3
+    },
+    {
+      "name": "laptop",
+      "password": "fsdf",
+      "email": "fsdf",
+      "id": 4
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "password": "fasfa",
+      "email": "abdurrahman.offical.63@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "laptopppp",
+      "password": "fgsdfaf",
+      "email": "admin1@gmail.com",
+      "id": 6
+    },
+
+    {
+      "name": "MD Abdur Rahman",
+      "password": "fadsf",
+      "email": "fadsfa",
+      "id": 8
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "password": "fadsfa",
+      "email": "fadsfa",
+      "id": 9
+    },
+    {
+      "name": "MD Abdur Rahman",
+      "password": "fadsf",
+      "email": "fadsfa",
+      "id": 10
+    },
+    {
+      "name": "laptop",
+      "password": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "MONGO_CONNECTION",
+      "password": "1234",
+      "email": "admin@gmail.com",
+      "id": 12
+    },
+
+    {
+      "name": "laptop",
+      "password": "fasdf",
+      "email": "admin1@gmail.com",
+      "id": 14
+    }
+  ]
+}
